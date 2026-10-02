@@ -1,0 +1,1827 @@
+{
+  "channels": [
+    {
+      "id": "auto-capital-pulse-8811-1",
+      "name": "Capital Pulse",
+      "handle": "@CapitalPulseTV",
+      "avatar": "https://ui-avatars.com/api/?name=Capital%20Pulse&background=0F172A&color=F59E0B&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "42.8K subscribers",
+      "subscribersCount": 42800,
+      "videoCount": 29,
+      "bio": "Mastering the rules of money, economics, and wealth preservation through data-driven visual essays ...more",
+      "niche": "Finance",
+      "style": "Stock Footage",
+      "success": "Good",
+      "complexity": "Easy",
+      "description": "Utilizes mood-graded business and urban stock footage layered with kinetic typography and immersive sound design to make complex monetary policies accessible. Its production pipeline focuses on cyclical wealth-transfer narratives that capture elevated CTR during periods of economic volatility.",
+      "discoveredAt": "Just now",
+      "likes": 20,
+      "commentCount": 0,
+      "views": 2650000,
+      "youtubeUrl": "https://www.youtube.com/@CapitalPulseTV/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "The Silent Depression Nobody Is Talking About",
+          "views": "890K views",
+          "timeAgo": "2 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Wk1d8TvdB70/hqdefault.jpg",
+          "duration": "12:35",
+          "youtubeId": "Wk1d8TvdB70"
+        },
+        {
+          "title": "Where the Top 1% Are Moving Their Cash Right Now",
+          "views": "520K views",
+          "timeAgo": "4 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Wk1d8TvdB70/hqdefault.jpg",
+          "duration": "14:50",
+          "youtubeId": "Wk1d8TvdB70"
+        },
+        {
+          "title": "The Real Reason the Middle Class is Going Extinct",
+          "views": "390K views",
+          "timeAgo": "6 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Wk1d8TvdB70/hqdefault.jpg",
+          "duration": "16:08",
+          "youtubeId": "Wk1d8TvdB70"
+        }
+      ]
+    },
+    {
+      "id": "auto-finaius-8811-0",
+      "name": "Finaius",
+      "handle": "@finaius",
+      "avatar": "https://ui-avatars.com/api/?name=Finaius&background=0F172A&color=F59E0B&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "84.2K subscribers",
+      "subscribersCount": 84200,
+      "videoCount": 41,
+      "bio": "Cinematic deep dives into high-stakes financial scandals, corporate warfare, and market crashes ...more",
+      "niche": "Finance",
+      "style": "Stock Footage",
+      "success": "Good",
+      "complexity": "Medium",
+      "description": "Pairs cinematic 4K stock footage and archival b-roll with gripping macroeconomic narrative pacing to achieve exceptionally high audience retention. The channel capitalizes on evergreen financial anxiety topics using high-contrast, documentary-style thumbnail compositions that generate substantial browse multiplier traffic.",
+      "discoveredAt": "Just now",
+      "likes": 9,
+      "commentCount": 0,
+      "views": 5420000,
+      "youtubeUrl": "https://www.youtube.com/@finaius/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "How Credit Suisse Actually Collapsed (Behind Closed Doors)",
+          "views": "1.2M views",
+          "timeAgo": "8 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Wk1d8TvdB70/hqdefault.jpg",
+          "duration": "18:42",
+          "youtubeId": "Wk1d8TvdB70"
+        },
+        {
+          "title": "The Trillion Dollar Bet That Broke The Bank",
+          "views": "740K views",
+          "timeAgo": "5 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Wk1d8TvdB70/hqdefault.jpg",
+          "duration": "15:20",
+          "youtubeId": "Wk1d8TvdB70"
+        },
+        {
+          "title": "Why Commercial Real Estate is About to Implode",
+          "views": "510K views",
+          "timeAgo": "3 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Wk1d8TvdB70/hqdefault.jpg",
+          "duration": "14:15",
+          "youtubeId": "Wk1d8TvdB70"
+        }
+      ]
+    },
+    {
+      "id": "ch-magnatesmedia",
+      "name": "MagnatesMedia",
+      "handle": "@magnatesmedia",
+      "avatar": "https://ui-avatars.com/api/?name=Magnates+Media&background=0F172A&color=F59E0B&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "1.65M subscribers",
+      "subscribersCount": 1650000,
+      "videoCount": 68,
+      "bio": "Movie-style business docudramas. The rise & fall of corrupt billionaires, corporate scandals, and monopolies.",
+      "niche": "Business",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Produces high-retention corporate collapse documentaries using atmospheric film-noir motion graphics, dramatic voice acting, and news archives.",
+      "discoveredAt": "Today",
+      "likes": 68,
+      "commentCount": 14,
+      "views": 58000000,
+      "youtubeUrl": "https://www.youtube.com/@magnatesmedia/videos",
+      "isBookmarked": true,
+      "isLiked": true,
+      "topVideos": [
+        {
+          "title": "The Billion Dollar Scam You Never Heard Of",
+          "views": "6.8M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Wk1d8TvdB70/hqdefault.jpg",
+          "duration": "32:14",
+          "youtubeId": "Wk1d8TvdB70"
+        },
+        {
+          "title": "How Red Bull Actually Makes Money (It’s Not Drinks)",
+          "views": "5.1M views",
+          "timeAgo": "10 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/5-Xf7R4vN_o/hqdefault.jpg",
+          "duration": "28:45",
+          "youtubeId": "5-Xf7R4vN_o"
+        },
+        {
+          "title": "The Fall of Toys R Us: A Private Equity Murder",
+          "views": "4.2M views",
+          "timeAgo": "8 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/O_E9k5Q6Z6c/hqdefault.jpg",
+          "duration": "25:20",
+          "youtubeId": "O_E9k5Q6Z6c"
+        }
+      ]
+    },
+    {
+      "id": "ch-neo",
+      "name": "Neo",
+      "handle": "@neoexplains",
+      "avatar": "https://ui-avatars.com/api/?name=Neo&background=1E293B&color=38BDF8&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "2.48M subscribers",
+      "subscribersCount": 2480000,
+      "videoCount": 82,
+      "bio": "Visual video essays explaining fascinating infrastructure, geopolitical borders, and urban design.",
+      "niche": "Education",
+      "style": "2D Animation",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Gold standard of isometric 2D map animation and geopolitical infrastructure breakdowns with 15-minute pacing and zero fluff.",
+      "discoveredAt": "Today",
+      "likes": 84,
+      "commentCount": 19,
+      "views": 74000000,
+      "youtubeUrl": "https://www.youtube.com/@neoexplains/videos",
+      "isBookmarked": true,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "Why Germany Doesn't Have Skyscrapers",
+          "views": "5.2M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XQxK-1vH_Y8/hqdefault.jpg",
+          "duration": "14:22",
+          "youtubeId": "XQxK-1vH_Y8"
+        },
+        {
+          "title": "Why Japan Has So Many Mountain Tunnels",
+          "views": "3.4M views",
+          "timeAgo": "9 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kL6nU5N8sL0/hqdefault.jpg",
+          "duration": "12:54",
+          "youtubeId": "kL6nU5N8sL0"
+        },
+        {
+          "title": "Why America's Passenger Trains Are So Slow",
+          "views": "2.9M views",
+          "timeAgo": "6 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/P_z_Xf1fQW8/hqdefault.jpg",
+          "duration": "16:05",
+          "youtubeId": "P_z_Xf1fQW8"
+        }
+      ]
+    },
+    {
+      "id": "ch-fern",
+      "name": "Fern",
+      "handle": "@FernTV",
+      "avatar": "https://ui-avatars.com/api/?name=Fern&background=064E3B&color=34D399&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "1.22M subscribers",
+      "subscribersCount": 1220000,
+      "videoCount": 54,
+      "bio": "Documentary-style essays on science, megaprojects, and human ingenuity.",
+      "niche": "Science",
+      "style": "3D Animation",
+      "success": "Really Good",
+      "complexity": "Hard",
+      "description": "Pioneered cinematic 3D Cesium/Blender satellite rendering showing mega-engineering feats, dams, and global logistics bottlenecks.",
+      "discoveredAt": "Today",
+      "likes": 62,
+      "commentCount": 9,
+      "views": 36000000,
+      "youtubeUrl": "https://www.youtube.com/@FernTV/videos",
+      "isBookmarked": false,
+      "isLiked": true,
+      "topVideos": [
+        {
+          "title": "How Singapore Solved Its Impossible Water Crisis",
+          "views": "5.6M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bO7Z2X6rG7c/hqdefault.jpg",
+          "duration": "18:40",
+          "youtubeId": "bO7Z2X6rG7c"
+        },
+        {
+          "title": "The Problem With Dubai's Island Megaproject",
+          "views": "4.3M views",
+          "timeAgo": "8 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mN2vU3bX7pA/hqdefault.jpg",
+          "duration": "21:10",
+          "youtubeId": "mN2vU3bX7pA"
+        },
+        {
+          "title": "Why Nobody Can Replicate the Netherlands Storm Surge Barrier",
+          "views": "3.1M views",
+          "timeAgo": "4 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/x8V9z4K_L0o/hqdefault.jpg",
+          "duration": "19:15",
+          "youtubeId": "x8V9z4K_L0o"
+        }
+      ]
+    },
+    {
+      "id": "ch-curious-archive",
+      "name": "Curious Archive",
+      "handle": "@curiousarchive",
+      "avatar": "https://ui-avatars.com/api/?name=Curious+Archive&background=3F2E14&color=FDE047&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "620K subscribers",
+      "subscribersCount": 620000,
+      "videoCount": 88,
+      "bio": "Speculative biology, deep worldbuilding, and fictional zoology documentaries.",
+      "niche": "Animals",
+      "style": "AI 2D",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Creates museum-quality biology documentaries about speculative and prehistoric creatures with calm, authoritative narration and hyper-detailed art.",
+      "discoveredAt": "Today",
+      "likes": 54,
+      "commentCount": 8,
+      "views": 22000000,
+      "youtubeUrl": "https://www.youtube.com/@curiousarchive/videos",
+      "isBookmarked": true,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "The Bizarre Biology of All Tomorrows",
+          "views": "3.6M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/imNtSPM332M/hqdefault.jpg",
+          "duration": "26:40",
+          "youtubeId": "imNtSPM332M"
+        },
+        {
+          "title": "Serina: The World Where Birds Conquered Every Niche",
+          "views": "2.4M views",
+          "timeAgo": "9 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6p_K_hP_v8A/hqdefault.jpg",
+          "duration": "31:15",
+          "youtubeId": "6p_K_hP_v8A"
+        },
+        {
+          "title": "Subnautica Leviathan Biology Explained",
+          "views": "1.9M views",
+          "timeAgo": "6 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/tQ5z9J3h7xU/hqdefault.jpg",
+          "duration": "19:50",
+          "youtubeId": "tQ5z9J3h7xU"
+        }
+      ]
+    },
+    {
+      "id": "ch-historymarche",
+      "name": "HistoryMarche",
+      "handle": "@historymarche",
+      "avatar": "https://ui-avatars.com/api/?name=History+Marche&background=450A0A&color=FCA5A5&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "1.28M subscribers",
+      "subscribersCount": 1280000,
+      "videoCount": 165,
+      "bio": "Animated military history, ancient battles, and tactical genius from Rome to Alexander.",
+      "niche": "History",
+      "style": "2D Animation",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Top-down tactical battle maps with unit movement counters and suspenseful historical breakdowns of ancient and medieval campaigns.",
+      "discoveredAt": "Today",
+      "likes": 71,
+      "commentCount": 12,
+      "views": 42000000,
+      "youtubeUrl": "https://www.youtube.com/@historymarche/videos",
+      "isBookmarked": false,
+      "isLiked": true,
+      "topVideos": [
+        {
+          "title": "Battle of Cannae 216 BC - Hannibal’s Masterpiece",
+          "views": "4.9M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/CQNCGq9z4y8/hqdefault.jpg",
+          "duration": "22:15",
+          "youtubeId": "CQNCGq9z4y8"
+        },
+        {
+          "title": "Battle of Alesia 52 BC - Caesar’s Double Wall Siege",
+          "views": "4.1M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/J8b4Y8xW7kQ/hqdefault.jpg",
+          "duration": "25:40",
+          "youtubeId": "J8b4Y8xW7kQ"
+        },
+        {
+          "title": "Battle of Yarmouk 636 AD - Khalid ibn al-Walid",
+          "views": "3.1M views",
+          "timeAgo": "8 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/w2F1o9X_8cA/hqdefault.jpg",
+          "duration": "29:05",
+          "youtubeId": "w2F1o9X_8cA"
+        }
+      ]
+    },
+    {
+      "id": "ch-kraut",
+      "name": "Kraut",
+      "handle": "@Kraut_yt",
+      "avatar": "https://ui-avatars.com/api/?name=Kraut&background=1E1B4B&color=A5B4FC&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "595K subscribers",
+      "subscribersCount": 595000,
+      "videoCount": 48,
+      "bio": "Countryball-style longform geopolitical essays examining Turkish, Russian, and Mexican institutional history.",
+      "niche": "Military",
+      "style": "2D Animation",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Known for 1-to-2 hour long animated Polandball documentaries covering institutional history and why societies fail.",
+      "discoveredAt": "Today",
+      "likes": 47,
+      "commentCount": 9,
+      "views": 28000000,
+      "youtubeUrl": "https://www.youtube.com/@Kraut_yt/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "The Origins of Russian Authoritarianism",
+          "views": "4.5M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kF9KretXqJw/hqdefault.jpg",
+          "duration": "44:18",
+          "youtubeId": "kF9KretXqJw"
+        },
+        {
+          "title": "The Turkish Century: From Empire to Republic",
+          "views": "3.2M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/yWv8oQJ8f6Y/hqdefault.jpg",
+          "duration": "52:10",
+          "youtubeId": "yWv8oQJ8f6Y"
+        },
+        {
+          "title": "Why Mexico is Poorer Than the US: Historical Institutions",
+          "views": "2.8M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/u_l9gU4tZ6k/hqdefault.jpg",
+          "duration": "38:40",
+          "youtubeId": "u_l9gU4tZ6k"
+        }
+      ]
+    },
+    {
+      "id": "ch-economicsexplained",
+      "name": "Economics Explained",
+      "handle": "@EconomicsExplained",
+      "avatar": "https://ui-avatars.com/api/?name=Economics+Explained&background=064E3B&color=6EE7B7&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "2.42M subscribers",
+      "subscribersCount": 2420000,
+      "videoCount": 210,
+      "bio": "Taking a look at the everyday economics behind countries, industries, sovereign wealth, and hyperinflation.",
+      "niche": "Finance",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Applies economic models to geopolitical events and sovereign currencies with authoritative voiceover and high-impact graphic overlays.",
+      "discoveredAt": "Today",
+      "likes": 89,
+      "commentCount": 22,
+      "views": 89000000,
+      "youtubeUrl": "https://www.youtube.com/@EconomicsExplained/videos",
+      "isBookmarked": true,
+      "isLiked": true,
+      "topVideos": [
+        {
+          "title": "The Economy of Australia: Why It Never Had a Recession",
+          "views": "4.8M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/L_p_K9o8Z4c/hqdefault.jpg",
+          "duration": "16:42",
+          "youtubeId": "L_p_K9o8Z4c"
+        },
+        {
+          "title": "Why Japan’s Economy Has Stagnated for 30 Years",
+          "views": "3.7M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/v8xO1Z_4k9A/hqdefault.jpg",
+          "duration": "18:15",
+          "youtubeId": "v8xO1Z_4k9A"
+        },
+        {
+          "title": "How Argentina Destroyed Its Own Currency",
+          "views": "3.1M views",
+          "timeAgo": "8 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m_J8xL1q2p8/hqdefault.jpg",
+          "duration": "19:30",
+          "youtubeId": "m_J8xL1q2p8"
+        }
+      ]
+    },
+    {
+      "id": "ch-coldfusion",
+      "name": "ColdFusion",
+      "handle": "@ColdFusion",
+      "avatar": "https://ui-avatars.com/api/?name=ColdFusion&background=0F172A&color=38BDF8&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "4.82M subscribers",
+      "subscribersCount": 4820000,
+      "videoCount": 245,
+      "bio": "Stories of technology, big business, and artificial intelligence with cinematic sound design.",
+      "niche": "Technology",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Legendary faceless tech channel blending moody ambient electronic soundtracks with deep tech corporate histories.",
+      "discoveredAt": "Today",
+      "likes": 124,
+      "commentCount": 31,
+      "views": 160000000,
+      "youtubeUrl": "https://www.youtube.com/@ColdFusion/videos",
+      "isBookmarked": true,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "How 1 Line of Code Crashed the Global Economy (CrowdStrike)",
+          "views": "3.9M views",
+          "timeAgo": "6 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2nB1yW-O-8A/hqdefault.jpg",
+          "duration": "24:18",
+          "youtubeId": "2nB1yW-O-8A"
+        },
+        {
+          "title": "The Strange Story of How Apple Almost Went Bankrupt",
+          "views": "5.4M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pL7_K8hV3oQ/hqdefault.jpg",
+          "duration": "28:10",
+          "youtubeId": "pL7_K8hV3oQ"
+        },
+        {
+          "title": "How NVIDIA Quietly Took Over The Entire World",
+          "views": "4.1M views",
+          "timeAgo": "9 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zX_j4W5q7Nk/hqdefault.jpg",
+          "duration": "22:50",
+          "youtubeId": "zX_j4W5q7Nk"
+        }
+      ]
+    },
+    {
+      "id": "ch-wesroth",
+      "name": "Wes Roth",
+      "handle": "@WesRoth",
+      "avatar": "https://ui-avatars.com/api/?name=Wes+Roth&background=312E81&color=C7D2FE&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "340K subscribers",
+      "subscribersCount": 340000,
+      "videoCount": 180,
+      "bio": "AI models, frontier reasoning benchmarks, and autonomous agent breakthroughs dissected daily.",
+      "niche": "AI",
+      "style": "Screen Record",
+      "success": "Really Good",
+      "complexity": "Easy",
+      "description": "High-cadence breakdowns of new neural network papers, context windows, and autonomous coding agents.",
+      "discoveredAt": "Today",
+      "likes": 42,
+      "commentCount": 7,
+      "views": 21000000,
+      "youtubeUrl": "https://www.youtube.com/@WesRoth/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "OpenAI’s New Reasoning Model Just Changed Everything",
+          "views": "1.2M views",
+          "timeAgo": "3 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/w_R7y6_P9qM/hqdefault.jpg",
+          "duration": "16:40",
+          "youtubeId": "w_R7y6_P9qM"
+        },
+        {
+          "title": "Anthropic Claude 3.5 Sonnet: The Benchmark Killer",
+          "views": "980K views",
+          "timeAgo": "4 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/q9J8xK2v5sL/hqdefault.jpg",
+          "duration": "14:15",
+          "youtubeId": "q9J8xK2v5sL"
+        },
+        {
+          "title": "How DeepSeek Broke the GPU Moat for $6M",
+          "views": "870K views",
+          "timeAgo": "1 month ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k_V4p9L2sJ8/hqdefault.jpg",
+          "duration": "18:25",
+          "youtubeId": "k_V4p9L2sJ8"
+        }
+      ]
+    },
+    {
+      "id": "ch-sea",
+      "name": "SEA",
+      "handle": "@SEAmedia",
+      "avatar": "https://ui-avatars.com/api/?name=SEA&background=2E1065&color=DDD6FE&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "980K subscribers",
+      "subscribersCount": 980000,
+      "videoCount": 75,
+      "bio": "Relaxing deep space journeys, celestial wonders, and cosmic horror documentaries.",
+      "niche": "Space",
+      "style": "AI 2D",
+      "success": "Really Good",
+      "complexity": "Easy",
+      "description": "Master of cosmic dread and ambient space storytelling with hypnotic, ASMR-level voiceover and realistic astronomical telescope imagery.",
+      "discoveredAt": "Today",
+      "likes": 64,
+      "commentCount": 11,
+      "views": 41000000,
+      "youtubeUrl": "https://www.youtube.com/@SEAmedia/videos",
+      "isBookmarked": true,
+      "isLiked": true,
+      "topVideos": [
+        {
+          "title": "The Boötes Void: The Terrifying Emptiness in Space",
+          "views": "4.8M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3t-tG4I7yQc/hqdefault.jpg",
+          "duration": "25:12",
+          "youtubeId": "3t-tG4I7yQc"
+        },
+        {
+          "title": "What Happens When You Fall Into a Supermassive Black Hole",
+          "views": "3.9M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/x8V7n2K_Q8w/hqdefault.jpg",
+          "duration": "29:40",
+          "youtubeId": "x8V7n2K_Q8w"
+        },
+        {
+          "title": "Why the James Webb Telescope Broke the Standard Model",
+          "views": "2.7M views",
+          "timeAgo": "7 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/u_P8q1X4y7c/hqdefault.jpg",
+          "duration": "22:15",
+          "youtubeId": "u_P8q1X4y7c"
+        }
+      ]
+    },
+    {
+      "id": "ch-coffeezilla",
+      "name": "Coffeezilla",
+      "handle": "@Coffeezilla",
+      "avatar": "https://ui-avatars.com/api/?name=Coffeezilla&background=7F1D1D&color=FECACA&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "3.62M subscribers",
+      "subscribersCount": 3620000,
+      "videoCount": 195,
+      "bio": "Uncovering internet scams, crypto frauds, and fake gurus from a 10-million-dollar virtual studio.",
+      "niche": "True Crime",
+      "style": "3D Animation",
+      "success": "Really Good",
+      "complexity": "Hard",
+      "description": "Forensic investigative journalism into multimillion dollar Web3 rugpulls and ponzi schemes with green-screen cyberpunk sets.",
+      "discoveredAt": "Today",
+      "likes": 145,
+      "commentCount": 42,
+      "views": 185000000,
+      "youtubeUrl": "https://www.youtube.com/@Coffeezilla/videos",
+      "isBookmarked": true,
+      "isLiked": true,
+      "topVideos": [
+        {
+          "title": "Investigating Logan Paul’s CryptoZoo Scam (Part 1)",
+          "views": "10.4M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/386p68_lDHA/hqdefault.jpg",
+          "duration": "28:30",
+          "youtubeId": "386p68_lDHA"
+        },
+        {
+          "title": "I Tracked Down the Billion-Dollar FTX Hacker",
+          "views": "5.8M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/L9z_8V2x4Qc/hqdefault.jpg",
+          "duration": "34:15",
+          "youtubeId": "L9z_8V2x4Qc"
+        },
+        {
+          "title": "The $100M AI Influencer Ponzi Scheme Exposed",
+          "views": "4.2M views",
+          "timeAgo": "5 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/w_V7p4K9s2A/hqdefault.jpg",
+          "duration": "26:40",
+          "youtubeId": "w_V7p4K9s2A"
+        }
+      ]
+    },
+    {
+      "id": "ch-fascinatinghorror",
+      "name": "Fascinating Horror",
+      "handle": "@FascinatingHorror",
+      "avatar": "https://ui-avatars.com/api/?name=Fascinating+Horror&background=18181B&color=F43F5E&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "1.15M subscribers",
+      "subscribersCount": 1150000,
+      "videoCount": 140,
+      "bio": "Short, factual documentaries on historical disasters, accidents, and aviation incidents.",
+      "niche": "True Crime",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Easy",
+      "description": "Respectful, concise 10-15 minute breakdowns of engineering disasters and historical catastrophes with archival blueprints.",
+      "discoveredAt": "Today",
+      "likes": 58,
+      "commentCount": 10,
+      "views": 78000000,
+      "youtubeUrl": "https://www.youtube.com/@FascinatingHorror/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "The Station Nightclub Fire Disaster",
+          "views": "3.8M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bO7Z1X9p4qM/hqdefault.jpg",
+          "duration": "14:10",
+          "youtubeId": "bO7Z1X9p4qM"
+        },
+        {
+          "title": "The Hillsborough Stadium Collapse",
+          "views": "2.9M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/p_J8xV2y5qL/hqdefault.jpg",
+          "duration": "15:45",
+          "youtubeId": "p_J8xV2y5qL"
+        },
+        {
+          "title": "The Hyatt Regency Skywalk Collapse",
+          "views": "2.4M views",
+          "timeAgo": "8 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k_R7v4P9s8M/hqdefault.jpg",
+          "duration": "13:20",
+          "youtubeId": "k_R7v4P9s8M"
+        }
+      ]
+    },
+    {
+      "id": "ch-bigcar",
+      "name": "Big Car",
+      "handle": "@BigCar",
+      "avatar": "https://ui-avatars.com/api/?name=Big+Car&background=831843&color=F472B6&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "920K subscribers",
+      "subscribersCount": 920000,
+      "videoCount": 185,
+      "bio": "The stories and failures of forgotten cars, automotive brands, and legendary engines.",
+      "niche": "Cars",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Easy",
+      "description": "In-depth British documentary retrospectives on automotive design disasters and the history of iconic sports cars.",
+      "discoveredAt": "Today",
+      "likes": 49,
+      "commentCount": 8,
+      "views": 62000000,
+      "youtubeUrl": "https://www.youtube.com/@BigCar/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "Why the DeLorean DMC-12 Was an Automotive Nightmare",
+          "views": "2.8M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m_V8xK4p9s2/hqdefault.jpg",
+          "duration": "21:15",
+          "youtubeId": "m_V8xK4p9s2"
+        },
+        {
+          "title": "The Pontiac Aztek: How GM Built the World’s Ugliest Car",
+          "views": "2.4M views",
+          "timeAgo": "10 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/q_L9zV4p8sK/hqdefault.jpg",
+          "duration": "18:40",
+          "youtubeId": "q_L9zV4p8sK"
+        },
+        {
+          "title": "Why Rover Went Bankrupt (The Fall of British Leyland)",
+          "views": "1.9M views",
+          "timeAgo": "6 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/v_K8xP4q9sL/hqdefault.jpg",
+          "duration": "24:10",
+          "youtubeId": "v_K8xP4q9sL"
+        }
+      ]
+    },
+    {
+      "id": "ch-mustard",
+      "name": "Mustard",
+      "handle": "@MustardChannel",
+      "avatar": "https://ui-avatars.com/api/?name=Mustard&background=713F12&color=FEF08A&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "1.52M subscribers",
+      "subscribersCount": 1520000,
+      "videoCount": 42,
+      "bio": "The history of experimental airplanes, supersonic flight, and forgotten trains.",
+      "niche": "Technology",
+      "style": "3D Animation",
+      "success": "Really Good",
+      "complexity": "Hard",
+      "description": "Bespoke 3D CGI aircraft renders showing cold war supersonic prototypes and the aerodynamics behind concept planes.",
+      "discoveredAt": "Today",
+      "likes": 76,
+      "commentCount": 15,
+      "views": 48000000,
+      "youtubeUrl": "https://www.youtube.com/@MustardChannel/videos",
+      "isBookmarked": true,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "Why The Supersonic Concorde Failed Financially",
+          "views": "6.2M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/aO8_k7v4Q9s/hqdefault.jpg",
+          "duration": "17:15",
+          "youtubeId": "aO8_k7v4Q9s"
+        },
+        {
+          "title": "The Ekranoplan: The Soviet Monster Plane That Flew on Water",
+          "views": "5.1M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/y_P8q4K2v9s/hqdefault.jpg",
+          "duration": "19:40",
+          "youtubeId": "y_P8q4K2v9s"
+        },
+        {
+          "title": "Why Nobody Built a Nuclear Powered Bomber",
+          "views": "3.8M views",
+          "timeAgo": "9 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/w_R9zV4k8sQ/hqdefault.jpg",
+          "duration": "16:50",
+          "youtubeId": "w_R9zV4k8sQ"
+        }
+      ]
+    },
+    {
+      "id": "ch-aperture",
+      "name": "Aperture",
+      "handle": "@ApertureThinking",
+      "avatar": "https://ui-avatars.com/api/?name=Aperture&background=020617&color=E2E8F0&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "2.78M subscribers",
+      "subscribersCount": 2780000,
+      "videoCount": 110,
+      "bio": "Philosophical and psychological video essays on loneliness, consciousness, and modern society.",
+      "niche": "Psychology",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Mood-rich cinematic montages paired with existential questions on social isolation and dopamine overload.",
+      "discoveredAt": "Today",
+      "likes": 95,
+      "commentCount": 24,
+      "views": 98000000,
+      "youtubeUrl": "https://www.youtube.com/@ApertureThinking/videos",
+      "isBookmarked": true,
+      "isLiked": true,
+      "topVideos": [
+        {
+          "title": "The Modern Loneliness Epidemic Explained",
+          "views": "5.4M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/b_V8xP4k9sQ/hqdefault.jpg",
+          "duration": "16:20",
+          "youtubeId": "b_V8xP4k9sQ"
+        },
+        {
+          "title": "Why You Have No Motivation (And How To Fix It)",
+          "views": "4.1M views",
+          "timeAgo": "10 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k_Q8vP4x9sL/hqdefault.jpg",
+          "duration": "18:45",
+          "youtubeId": "k_Q8vP4x9sL"
+        },
+        {
+          "title": "The Dark Side of Being a Highly Intelligent Person",
+          "views": "3.7M views",
+          "timeAgo": "7 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/x_P9q4V8s2M/hqdefault.jpg",
+          "duration": "15:10",
+          "youtubeId": "x_P9q4V8s2M"
+        }
+      ]
+    },
+    {
+      "id": "ch-psych2go",
+      "name": "Psych2Go",
+      "handle": "@Psych2go",
+      "avatar": "https://ui-avatars.com/api/?name=Psych2Go&background=831843&color=FBCFE8&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1516589178584-8d80c258d699?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "12.1M subscribers",
+      "subscribersCount": 12100000,
+      "videoCount": 850,
+      "bio": "Cute 2D animated psychology doodles making mental health and relationship dynamics accessible.",
+      "niche": "Relationships",
+      "style": "2D Animation",
+      "success": "Really Good",
+      "complexity": "Easy",
+      "description": "Recognizable pastel 2D character animation exploring attachment styles, burnout signs, and covert emotional triggers.",
+      "discoveredAt": "Today",
+      "likes": 180,
+      "commentCount": 52,
+      "views": 450000000,
+      "youtubeUrl": "https://www.youtube.com/@Psych2go/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "7 Signs Someone is Secretly Attracted to You",
+          "views": "8.2M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/v_R8xP4q9sK/hqdefault.jpg",
+          "duration": "08:15",
+          "youtubeId": "v_R8xP4q9sK"
+        },
+        {
+          "title": "Avoidant vs Anxious: The Toxic Relationship Loop",
+          "views": "4.9M views",
+          "timeAgo": "8 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m_Q9zV4p8s2/hqdefault.jpg",
+          "duration": "09:30",
+          "youtubeId": "m_Q9zV4p8s2"
+        },
+        {
+          "title": "6 Subtle Behaviors of Emotionally Mature People",
+          "views": "3.5M views",
+          "timeAgo": "5 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/p_K8vP4x9sQ/hqdefault.jpg",
+          "duration": "07:45",
+          "youtubeId": "p_K8vP4x9sQ"
+        }
+      ]
+    },
+    {
+      "id": "ch-gmtk",
+      "name": "Game Maker’s Toolkit",
+      "handle": "@GMTK",
+      "avatar": "https://ui-avatars.com/api/?name=GMTK&background=581C87&color=E9D5FF&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "1.64M subscribers",
+      "subscribersCount": 1640000,
+      "videoCount": 175,
+      "bio": "Mark Brown’s deep dives into game design, level layout, and boss mechanics.",
+      "niche": "Gaming",
+      "style": "Screen Record",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Masterclass in gameplay analysis deconstructing Nintendo level design, stealth AI, and procedural generation.",
+      "discoveredAt": "Today",
+      "likes": 82,
+      "commentCount": 16,
+      "views": 65000000,
+      "youtubeUrl": "https://www.youtube.com/@GMTK/videos",
+      "isBookmarked": true,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "Why Super Mario 64’s Camera Was an Impossible Problem",
+          "views": "3.2M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/q_P8xV4k9sL/hqdefault.jpg",
+          "duration": "14:50",
+          "youtubeId": "q_P8xV4k9sL"
+        },
+        {
+          "title": "How Portal’s Level Design Teaches Without Words",
+          "views": "2.8M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k_V8p4Q9s2A/hqdefault.jpg",
+          "duration": "16:25",
+          "youtubeId": "k_V8p4Q9s2A"
+        },
+        {
+          "title": "The Secret Behind Dark Souls Boss Pacing",
+          "views": "2.4M views",
+          "timeAgo": "8 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/v_L9zP4x8sK/hqdefault.jpg",
+          "duration": "18:10",
+          "youtubeId": "v_L9zP4x8sK"
+        }
+      ]
+    },
+    {
+      "id": "ch-tifofootball",
+      "name": "Tifo Football",
+      "handle": "@Tifo",
+      "avatar": "https://ui-avatars.com/api/?name=Tifo+Football&background=0C4A6E&color=BAE6FD&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "1.45M subscribers",
+      "subscribersCount": 1450000,
+      "videoCount": 420,
+      "bio": "Tactical illustrations and chalkboard breakdowns of European football and club finances.",
+      "niche": "Sports",
+      "style": "Whiteboard Animation",
+      "success": "Really Good",
+      "complexity": "Easy",
+      "description": "Clean whiteboard pitch diagrams breaking down inverted fullbacks, pressing traps, and UEFA financial fair play.",
+      "discoveredAt": "Today",
+      "likes": 67,
+      "commentCount": 13,
+      "views": 72000000,
+      "youtubeUrl": "https://www.youtube.com/@Tifo/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "How Pep Guardiola’s Box Midfield Broke the Premier League",
+          "views": "2.4M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/b_Q8vP4x9sK/hqdefault.jpg",
+          "duration": "10:15",
+          "youtubeId": "b_Q8vP4x9sK"
+        },
+        {
+          "title": "The Financial Ruin of Everton FC Explained",
+          "views": "1.9M views",
+          "timeAgo": "9 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m_V8xP4q9sQ/hqdefault.jpg",
+          "duration": "12:40",
+          "youtubeId": "m_V8xP4q9sQ"
+        },
+        {
+          "title": "Why Real Madrid Always Wins in the Champions League",
+          "views": "1.7M views",
+          "timeAgo": "6 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/x_K8vP4q9sL/hqdefault.jpg",
+          "duration": "11:20",
+          "youtubeId": "x_K8vP4q9sL"
+        }
+      ]
+    },
+    {
+      "id": "ch-tastinghistory",
+      "name": "Tasting History with Max Miller",
+      "handle": "@TastingHistory",
+      "avatar": "https://ui-avatars.com/api/?name=Tasting+History&background=7C2D12&color=FED7AA&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "2.45M subscribers",
+      "subscribersCount": 2450000,
+      "videoCount": 230,
+      "bio": "Recreating ancient Roman, Medieval, and Victorian dishes alongside their authentic historical contexts.",
+      "niche": "Food",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Captivating blend of culinary recreation and museum-level history exploring ship rations, garum, and Tudor feasts.",
+      "discoveredAt": "Today",
+      "likes": 91,
+      "commentCount": 21,
+      "views": 84000000,
+      "youtubeUrl": "https://www.youtube.com/@TastingHistory/videos",
+      "isBookmarked": false,
+      "isLiked": true,
+      "topVideos": [
+        {
+          "title": "Eating Like a Roman Emperor: The Garum Fish Sauce",
+          "views": "3.9M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/p_V8xK4q9s2/hqdefault.jpg",
+          "duration": "18:40",
+          "youtubeId": "p_V8xK4q9s2"
+        },
+        {
+          "title": "What Titanic Passengers Ate on Their Final Night",
+          "views": "3.2M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/q_L9zV4p8sM/hqdefault.jpg",
+          "duration": "22:15",
+          "youtubeId": "q_L9zV4p8sM"
+        },
+        {
+          "title": "The Hardtack Biscuits That Kept Sailors Alive for 300 Days",
+          "views": "2.6M views",
+          "timeAgo": "7 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/v_K8xP4q9sQ/hqdefault.jpg",
+          "duration": "16:50",
+          "youtubeId": "v_K8xP4q9sQ"
+        }
+      ]
+    },
+    {
+      "id": "ch-wendover",
+      "name": "Wendover Productions",
+      "handle": "@Wendoverproductions",
+      "avatar": "https://ui-avatars.com/api/?name=Wendover&background=1E3A8A&color=93C5FD&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "4.52M subscribers",
+      "subscribersCount": 4520000,
+      "videoCount": 220,
+      "bio": "Explaining how the logistics of world shipping, aviation routes, and border geography actually function.",
+      "niche": "Travel",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Benchmark of logistics travel essays explaining the geography of extreme airports, polar supply routes, and shipping chokepoints.",
+      "discoveredAt": "Today",
+      "likes": 118,
+      "commentCount": 28,
+      "views": 155000000,
+      "youtubeUrl": "https://www.youtube.com/@Wendoverproductions/videos",
+      "isBookmarked": true,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "The Logistics of the Most Remote Island on Earth",
+          "views": "5.4M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m_Q8vP4x9sL/hqdefault.jpg",
+          "duration": "19:10",
+          "youtubeId": "m_Q8vP4x9sL"
+        },
+        {
+          "title": "Why Flights Avoid Flying Over Tibet and the Pacific",
+          "views": "4.8M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/b_V8xP4q9s2/hqdefault.jpg",
+          "duration": "15:40",
+          "youtubeId": "b_V8xP4q9s2"
+        },
+        {
+          "title": "The Tiny African Country Trapped Inside South Africa",
+          "views": "3.6M views",
+          "timeAgo": "8 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k_P9q4V8s2A/hqdefault.jpg",
+          "duration": "17:25",
+          "youtubeId": "k_P9q4V8s2A"
+        }
+      ]
+    },
+    {
+      "id": "ch-picturefit",
+      "name": "PictureFit",
+      "handle": "@PictureFit",
+      "avatar": "https://ui-avatars.com/api/?name=PictureFit&background=134E4A&color=5EEAD4&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "1.48M subscribers",
+      "subscribersCount": 1480000,
+      "videoCount": 280,
+      "bio": "Science-based animated explanations of hypertrophy, nutrition macros, and fat loss.",
+      "niche": "Fitness",
+      "style": "2D Animation",
+      "success": "Really Good",
+      "complexity": "Easy",
+      "description": "Fast, accurate 5-to-10 minute whiteboard 2D animations debunking fitness myths and summarizing sports medicine literature.",
+      "discoveredAt": "Today",
+      "likes": 72,
+      "commentCount": 14,
+      "views": 76000000,
+      "youtubeUrl": "https://www.youtube.com/@PictureFit/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "How Much Protein Can Your Body Actually Absorb in 1 Meal?",
+          "views": "4.2M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/q_P8xV4k9sQ/hqdefault.jpg",
+          "duration": "06:40",
+          "youtubeId": "q_P8xV4k9sQ"
+        },
+        {
+          "title": "What Really Happens When You Stop Lifting for 2 Weeks",
+          "views": "2.8M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/v_L9zP4x8s2/hqdefault.jpg",
+          "duration": "07:15",
+          "youtubeId": "v_L9zP4x8s2"
+        },
+        {
+          "title": "The Science of Creatine: Timing, Water Weight, and Kidney Health",
+          "views": "2.3M views",
+          "timeAgo": "6 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k_V8p4Q9s2L/hqdefault.jpg",
+          "duration": "08:50",
+          "youtubeId": "k_V8p4Q9s2L"
+        }
+      ]
+    },
+    {
+      "id": "ch-whativelearned",
+      "name": "What I’ve Learned",
+      "handle": "@WhatIveLearned",
+      "avatar": "https://ui-avatars.com/api/?name=What+Ive+Learned&background=164E63&color=67E8F9&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "2.28M subscribers",
+      "subscribersCount": 2280000,
+      "videoCount": 110,
+      "bio": "Visual essays on metabolic health, intermittent fasting, sleep architecture, and evolutionary diet.",
+      "niche": "Health",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Evidence-heavy investigative essays with animated diagrams on glucose spikes, insulin sensitivity, and sleep architecture.",
+      "discoveredAt": "Today",
+      "likes": 93,
+      "commentCount": 25,
+      "views": 88000000,
+      "youtubeUrl": "https://www.youtube.com/@WhatIveLearned/videos",
+      "isBookmarked": true,
+      "isLiked": true,
+      "topVideos": [
+        {
+          "title": "The Science of Why Sugar Destroys Sleep Quality",
+          "views": "4.8M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m_V8xP4q9sL/hqdefault.jpg",
+          "duration": "16:20",
+          "youtubeId": "m_V8xP4q9sL"
+        },
+        {
+          "title": "What Fasting for 72 Hours Actually Does to Your Immune Cells",
+          "views": "4.1M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/b_Q8vP4x9s2/hqdefault.jpg",
+          "duration": "19:45",
+          "youtubeId": "b_Q8vP4x9s2"
+        },
+        {
+          "title": "The Real Reason Heart Disease Skyrocketed in the 20th Century",
+          "views": "3.5M views",
+          "timeAgo": "8 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k_P9q4V8s2M/hqdefault.jpg",
+          "duration": "21:10",
+          "youtubeId": "k_P9q4V8s2M"
+        }
+      ]
+    },
+    {
+      "id": "ch-theb1m",
+      "name": "The B1M",
+      "handle": "@TheB1M",
+      "avatar": "https://ui-avatars.com/api/?name=The+B1M&background=365314&color=BEF264&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "3.32M subscribers",
+      "subscribersCount": 3320000,
+      "videoCount": 340,
+      "bio": "The world’s best video channel for construction, supertall skyscrapers, and megastructures.",
+      "niche": "Real Estate",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Definitive channel on engineering billion-dollar towers, underwater tunnels, and real estate urban planning.",
+      "discoveredAt": "Today",
+      "likes": 104,
+      "commentCount": 26,
+      "views": 140000000,
+      "youtubeUrl": "https://www.youtube.com/@TheB1M/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "How New York Built a $25 Billion Neighborhood on Top of Train Tracks",
+          "views": "6.8M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/q_L9zV4p8s2/hqdefault.jpg",
+          "duration": "15:40",
+          "youtubeId": "q_L9zV4p8s2"
+        },
+        {
+          "title": "Why London’s Skinniest Skyscraper Was an Engineering Nightmare",
+          "views": "4.2M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/v_K8xP4q9sL/hqdefault.jpg",
+          "duration": "14:15",
+          "youtubeId": "v_K8xP4q9sL"
+        },
+        {
+          "title": "The $1.5 Trillion Megacity Being Built in the Saudi Desert (NEOM)",
+          "views": "3.9M views",
+          "timeAgo": "9 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k_V8p4Q9s2M/hqdefault.jpg",
+          "duration": "18:30",
+          "youtubeId": "k_V8p4Q9s2M"
+        }
+      ]
+    },
+    {
+      "id": "ch-finematics",
+      "name": "Finematics",
+      "handle": "@finematics",
+      "avatar": "https://ui-avatars.com/api/?name=Finematics&background=78350F&color=FDE68A&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "410K subscribers",
+      "subscribersCount": 410000,
+      "videoCount": 85,
+      "bio": "Decentralized finance, automated market makers, and layer-2 cryptography simply explained with 2D animation.",
+      "niche": "Crypto",
+      "style": "2D Animation",
+      "success": "Really Good",
+      "complexity": "Easy",
+      "description": "Clean minimalist 2D vector animations explaining liquidity pools, zero-knowledge rollups, and smart contracts.",
+      "discoveredAt": "Today",
+      "likes": 51,
+      "commentCount": 9,
+      "views": 24000000,
+      "youtubeUrl": "https://www.youtube.com/@finematics/videos",
+      "isBookmarked": true,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "Uniswap Explained: How Automated Market Makers Work",
+          "views": "2.1M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/1PbZMudPP5E/hqdefault.jpg",
+          "duration": "12:15",
+          "youtubeId": "1PbZMudPP5E"
+        },
+        {
+          "title": "Zero Knowledge Proofs (ZK-Rollups) Simply Explained",
+          "views": "1.4M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/fOGdb1CTu5c/hqdefault.jpg",
+          "duration": "14:30",
+          "youtubeId": "fOGdb1CTu5c"
+        },
+        {
+          "title": "Ethereum 2.0 Proof of Stake Architecture Dissected",
+          "views": "980K views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ctzGr58_aeI/hqdefault.jpg",
+          "duration": "11:45",
+          "youtubeId": "ctzGr58_aeI"
+        }
+      ]
+    },
+    {
+      "id": "ch-alux",
+      "name": "Alux.com",
+      "handle": "@alux",
+      "avatar": "https://ui-avatars.com/api/?name=Alux&background=713F12&color=FEF08A&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "4.58M subscribers",
+      "subscribersCount": 4580000,
+      "videoCount": 680,
+      "bio": "Where future billionaires go to get inspired. Luxury lifestyle, hypercars, and wealth psychology.",
+      "niche": "Luxury",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Easy",
+      "description": "Top faceless luxury listicle channel with deep resonant voiceover covering private aviation, superyachts, and high-net-worth habits.",
+      "discoveredAt": "Today",
+      "likes": 112,
+      "commentCount": 29,
+      "views": 210000000,
+      "youtubeUrl": "https://www.youtube.com/@alux/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "15 Things Rich People Never Waste Their Money On",
+          "views": "6.4M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/b_V8xP4q9sM/hqdefault.jpg",
+          "duration": "16:20",
+          "youtubeId": "b_V8xP4q9sM"
+        },
+        {
+          "title": "Inside the World’s Most Expensive Private Jet ($400M Boeing 747)",
+          "views": "4.8M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m_Q8vP4x9s2/hqdefault.jpg",
+          "duration": "14:50",
+          "youtubeId": "m_Q8vP4x9s2"
+        },
+        {
+          "title": "15 Lessons From the Richest Families in History",
+          "views": "3.2M views",
+          "timeAgo": "8 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k_P9q4V8s2L/hqdefault.jpg",
+          "duration": "18:10",
+          "youtubeId": "k_P9q4V8s2L"
+        }
+      ]
+    },
+    {
+      "id": "ch-thetake",
+      "name": "The Take",
+      "handle": "@TheTake",
+      "avatar": "https://ui-avatars.com/api/?name=The+Take&background=581C87&color=F5D0FE&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "1.56M subscribers",
+      "subscribersCount": 1560000,
+      "videoCount": 320,
+      "bio": "Cinema tropes, character studies, and the cultural psychology behind Hollywood icons.",
+      "niche": "Celebrities",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Cinematic video essays analyzing movie archetypes, toxic relationship tropes, and the psychology behind pop icons.",
+      "discoveredAt": "Today",
+      "likes": 78,
+      "commentCount": 17,
+      "views": 74000000,
+      "youtubeUrl": "https://www.youtube.com/@TheTake/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "The \"Cool Girl\" Trope: Why Hollywood Writes Women This Way",
+          "views": "4.8M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/q_L9zV4p8sM/hqdefault.jpg",
+          "duration": "15:30",
+          "youtubeId": "q_L9zV4p8sM"
+        },
+        {
+          "title": "The Problem With the \"Nice Guy\" in Rom-Coms",
+          "views": "3.4M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/v_K8xP4q9s2/hqdefault.jpg",
+          "duration": "14:10",
+          "youtubeId": "v_K8xP4q9s2"
+        },
+        {
+          "title": "Why Marilyn Monroe’s Image Was Weaponized by the Media",
+          "views": "2.8M views",
+          "timeAgo": "7 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k_V8p4Q9s2A/hqdefault.jpg",
+          "duration": "18:45",
+          "youtubeId": "k_V8p4Q9s2A"
+        }
+      ]
+    },
+    {
+      "id": "ch-tierzoo",
+      "name": "TierZoo",
+      "handle": "@TierZoo",
+      "avatar": "https://ui-avatars.com/api/?name=TierZoo&background=064E3B&color=A7F3D0&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "3.42M subscribers",
+      "subscribersCount": 3420000,
+      "videoCount": 90,
+      "bio": "Animal biology and evolution explained as a massively multiplayer online RPG tier list.",
+      "niche": "Nature",
+      "style": "2D Animation",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Viral format framing animal evolutionary adaptations as gamer stat sheets (S-Tier, stealth builds, poison meta).",
+      "discoveredAt": "Today",
+      "likes": 122,
+      "commentCount": 34,
+      "views": 120000000,
+      "youtubeUrl": "https://www.youtube.com/@TierZoo/videos",
+      "isBookmarked": true,
+      "isLiked": true,
+      "topVideos": [
+        {
+          "title": "The Cat Tier List: Why Felines Dominate the Meta",
+          "views": "7.8M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8_V9z4K_L0o/hqdefault.jpg",
+          "duration": "12:40",
+          "youtubeId": "8_V9z4K_L0o"
+        },
+        {
+          "title": "Why Humans Are the Most Broken Build in Earth’s History",
+          "views": "6.9M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/p_J8xV2y5qL/hqdefault.jpg",
+          "duration": "14:15",
+          "youtubeId": "p_J8xV2y5qL"
+        },
+        {
+          "title": "The Deep Ocean Meta: Why Trench Builds Are Terrifying",
+          "views": "4.5M views",
+          "timeAgo": "9 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/w_R9zV4k8sQ/hqdefault.jpg",
+          "duration": "16:20",
+          "youtubeId": "w_R9zV4k8sQ"
+        }
+      ]
+    },
+    {
+      "id": "ch-companyman",
+      "name": "Company Man",
+      "handle": "@CompanyMan",
+      "avatar": "https://ui-avatars.com/api/?name=Company+Man&background=1E293B&color=F8FAFC&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "1.78M subscribers",
+      "subscribersCount": 1780000,
+      "videoCount": 215,
+      "bio": "The rise, fall, and struggle of companies you know and remember.",
+      "niche": "Business",
+      "style": "Whiteboard Animation",
+      "success": "Really Good",
+      "complexity": "Easy",
+      "description": "Crisp, factual retrospectives dissecting why Sears, Blockbuster, BlackBerry, and Pan Am went extinct.",
+      "discoveredAt": "Today",
+      "likes": 85,
+      "commentCount": 19,
+      "views": 82000000,
+      "youtubeUrl": "https://www.youtube.com/@CompanyMan/videos",
+      "isBookmarked": false,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "The Decline of Sears... What Happened?",
+          "views": "5.4M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bO7Z1X9p4qM/hqdefault.jpg",
+          "duration": "12:10",
+          "youtubeId": "bO7Z1X9p4qM"
+        },
+        {
+          "title": "Kmart: The Collapse of an American Giant",
+          "views": "4.1M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m_V8xP4q9sL/hqdefault.jpg",
+          "duration": "13:45",
+          "youtubeId": "m_V8xP4q9sL"
+        },
+        {
+          "title": "Why Subway is Closing Thousands of Stores",
+          "views": "3.6M views",
+          "timeAgo": "8 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k_P9q4V8s2M/hqdefault.jpg",
+          "duration": "11:50",
+          "youtubeId": "k_P9q4V8s2M"
+        }
+      ]
+    },
+    {
+      "id": "ch-jaketran",
+      "name": "Jake Tran",
+      "handle": "@JakeTran",
+      "avatar": "https://ui-avatars.com/api/?name=Jake+Tran&background=18181B&color=F87171&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "1.84M subscribers",
+      "subscribersCount": 1840000,
+      "videoCount": 145,
+      "bio": "The darker side of business, economic warfare, and government subsidies.",
+      "niche": "Crime",
+      "style": "Stock Footage",
+      "success": "Really Good",
+      "complexity": "Medium",
+      "description": "Atmospheric investigative docudramas uncovering how cartels launder money through real estate and commodity monopolies.",
+      "discoveredAt": "Today",
+      "likes": 88,
+      "commentCount": 20,
+      "views": 71000000,
+      "youtubeUrl": "https://www.youtube.com/@JakeTran/videos",
+      "isBookmarked": true,
+      "isLiked": false,
+      "topVideos": [
+        {
+          "title": "How BlackRock Owns the World",
+          "views": "6.8M views",
+          "timeAgo": "2 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/q_L9zV4p8s2/hqdefault.jpg",
+          "duration": "18:25",
+          "youtubeId": "q_L9zV4p8s2"
+        },
+        {
+          "title": "The Dark Economics of the Avocado Cartel",
+          "views": "4.2M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/v_K8xP4q9sL/hqdefault.jpg",
+          "duration": "16:40",
+          "youtubeId": "v_K8xP4q9sL"
+        },
+        {
+          "title": "How Blood Diamond Smugglers Evade the Kimberley Process",
+          "views": "3.1M views",
+          "timeAgo": "9 months ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k_V8p4Q9s2M/hqdefault.jpg",
+          "duration": "19:10",
+          "youtubeId": "k_V8p4Q9s2M"
+        }
+      ]
+    },
+    {
+      "id": "ch-lemmino",
+      "name": "LEMMiNO",
+      "handle": "@LEMMiNO",
+      "avatar": "https://ui-avatars.com/api/?name=LEMMiNO&background=020617&color=38BDF8&bold=true&size=160",
+      "bannerUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+      "subscribers": "5.52M subscribers",
+      "subscribersCount": 5520000,
+      "videoCount": 46,
+      "bio": "Narrated, researched documentary mysteries on UFOs, Jack the Ripper, and internet puzzles.",
+      "niche": "Science",
+      "style": "3D Animation",
+      "success": "Really Good",
+      "complexity": "Hard",
+      "description": "Regarded as the pinnacle of independent YouTube documentary production with custom 3D motion design, bespoke synth score, and forensic timeline reconstruction.",
+      "discoveredAt": "Today",
+      "likes": 210,
+      "commentCount": 65,
+      "views": 195000000,
+      "youtubeUrl": "https://www.youtube.com/@LEMMiNO/videos",
+      "isBookmarked": true,
+      "isLiked": true,
+      "topVideos": [
+        {
+          "title": "The Search for the Universal S",
+          "views": "24.5M views",
+          "timeAgo": "4 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/RQdxHi4_Pvc/hqdefault.jpg",
+          "duration": "19:22",
+          "youtubeId": "RQdxHi4_Pvc"
+        },
+        {
+          "title": "Cicada 3301: An Internet Mystery",
+          "views": "21.8M views",
+          "timeAgo": "5 years ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/I2O7blSSG3o/hqdefault.jpg",
+          "duration": "17:40",
+          "youtubeId": "I2O7blSSG3o"
+        },
+        {
+          "title": "The JFK Assassination: 54 Years of Alternate Timelines",
+          "views": "9.2M views",
+          "timeAgo": "1 year ago",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6r01u_U7g5c/hqdefault.jpg",
+          "duration": "1:19:15",
+          "youtubeId": "6r01u_U7g5c"
+        }
+      ]
+    }
+  ],
+  "workspaces": {
+    "creator-prime": {
+      "workspaceId": "creator-prime",
+      "updatedAt": 1790960297945,
+      "bookmarkedChannelIds": [
+        "ch-magnatesmedia",
+        "ch-neo",
+        "ch-fern",
+        "ch-curious-archive",
+        "ch-economicsexplained"
+      ],
+      "likedChannelIds": [
+        "ch-magnatesmedia",
+        "ch-coldfusion",
+        "ch-coffeezilla"
+      ],
+      "ideas": [
+        {
+          "id": "idea-1",
+          "title": "Why Evolution Made the Same Deep Sea Shark 8 Times",
+          "niche": "Animals",
+          "style": "Stock Footage",
+          "targetMultiplier": "35x",
+          "hook": "Show deep trench blackness with sudden bio-luminescence and high-stakes voiceover.",
+          "notes": "Modeled after Amazon Archives convergent evolution formula.",
+          "status": "scripting",
+          "createdAt": 1790361067978
+        },
+        {
+          "id": "idea-2",
+          "title": "7 Ancient Roman Surnames Still Secretly Carried by Modern CEOs",
+          "niche": "History",
+          "style": "2D Animation",
+          "targetMultiplier": "40x",
+          "hook": "Connect modern multinational corporate founders directly to Roman provincial tax collectors.",
+          "notes": "Modeled after Historic Dave stick animation style.",
+          "status": "backlog",
+          "createdAt": 1790332267978
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-1",
+          "title": "Amazon Archives Convergent Evolution Blueprint",
+          "content": "Use simple \"MISTAKE\" or \"WE CANT EXPLAIN\" thumbnail text with 4-5 animal comparisons. Stock footage + high quality sound design.",
+          "tag": "Thumbnail Strategy",
+          "updatedAt": 1790368267978
+        }
+      ],
+      "myChannel": {
+        "name": "Tim | Faceless Studio",
+        "handle": "@timfaceless",
+        "niche": "Animals & Nature History",
+        "subscribers": 14200,
+        "monthlyViews": 480000,
+        "rpm": 16.5,
+        "goalSubs": 100000
+      },
+      "savedThumbnails": [
+        {
+          "id": "thumb-magnates-1",
+          "videoId": "Wk1d8TvdB70",
+          "title": "The Billion Dollar Scam You Never Heard Of",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Wk1d8TvdB70/hqdefault.jpg",
+          "channelName": "MagnatesMedia",
+          "channelAvatar": "https://ui-avatars.com/api/?name=Magnates+Media&background=0F172A&color=F59E0B&bold=true&size=160",
+          "views": "6.8M views",
+          "timeAgo": "1 year ago",
+          "likes": "142K",
+          "commentCount": "4.8K",
+          "duration": "32:14",
+          "source": "proven-channel",
+          "sourceUrl": "https://www.youtube.com/watch?v=Wk1d8TvdB70",
+          "niche": "Business",
+          "notes": "Rule #1 Asymmetry: High-contrast gold & shadow with ominous question hook.",
+          "contrastScore": 95,
+          "addedAt": 1790787564922
+        },
+        {
+          "id": "thumb-coldfusion-1",
+          "videoId": "2nB1yW-O-8A",
+          "title": "How 1 Line of Code Crashed the Global Economy (CrowdStrike)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2nB1yW-O-8A/hqdefault.jpg",
+          "channelName": "ColdFusion",
+          "channelAvatar": "https://ui-avatars.com/api/?name=ColdFusion&background=0F172A&color=38BDF8&bold=true&size=160",
+          "views": "3.9M views",
+          "timeAgo": "6 months ago",
+          "likes": "112K",
+          "commentCount": "4.8K",
+          "duration": "24:18",
+          "source": "proven-channel",
+          "sourceUrl": "https://www.youtube.com/watch?v=2nB1yW-O-8A",
+          "niche": "Technology",
+          "notes": "Rule #2: 1-word text hook \"FATAL ERROR\" with high-contrast radar trace.",
+          "contrastScore": 96,
+          "addedAt": 1790873964922
+        },
+        {
+          "id": "thumb-neo-1",
+          "videoId": "XQxK-1vH_Y8",
+          "title": "Why Germany Doesn't Have Skyscrapers",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XQxK-1vH_Y8/hqdefault.jpg",
+          "channelName": "Neo",
+          "channelAvatar": "https://ui-avatars.com/api/?name=Neo&background=1E293B&color=38BDF8&bold=true&size=160",
+          "views": "5.2M views",
+          "timeAgo": "1 year ago",
+          "likes": "168K",
+          "commentCount": "7.2K",
+          "duration": "14:22",
+          "source": "proven-channel",
+          "sourceUrl": "https://www.youtube.com/watch?v=XQxK-1vH_Y8",
+          "niche": "Education",
+          "notes": "Rule #3: Isometric map graphic with bold query and high contrast outline.",
+          "contrastScore": 93,
+          "addedAt": 1790917164922
+        }
+      ],
+      "activePreviewThumbIds": [
+        "thumb-magnates-1",
+        "thumb-coldfusion-1",
+        "thumb-neo-1"
+      ]
+    }
+  },
+  "hunterSettings": {
+    "autoRunEnabled": true,
+    "frequencyHours": 12,
+    "subscriberMax": 75000,
+    "minOutlierMultiplier": 12,
+    "minVideoViews": 100000,
+    "complexityFilter": "All",
+    "selectedStyles": [
+      "Stock Footage",
+      "Whiteboard Animation",
+      "AI 2D",
+      "2D Animation",
+      "3D Animation"
+    ],
+    "selectedNiches": [
+      "Animals",
+      "Religion",
+      "Sport",
+      "Fitness & Health",
+      "Crime",
+      "History",
+      "Education",
+      "Entertainment",
+      "Culture & Food",
+      "Psychology",
+      "Finance",
+      "Fitness",
+      "Health",
+      "Relationships",
+      "True Crime",
+      "Gaming",
+      "Sports",
+      "Food",
+      "Travel",
+      "Science",
+      "Space",
+      "Technology",
+      "AI",
+      "Cars",
+      "Military",
+      "Nature",
+      "Business",
+      "Real Estate",
+      "Crypto",
+      "Celebrities",
+      "Luxury"
+    ],
+    "targetRegion": "Global English (Tier 1)",
+    "minVideoDuration": "8+ mins (Midroll Optimized)",
+    "lastScanTime": 1790961379952,
+    "nextScanTime": 1791004579952,
+    "scanLogs": [
+      {
+        "id": "log-1790961379952",
+        "timestamp": 1790961379952,
+        "channelsFound": 2,
+        "status": "success",
+        "message": "Autonomous scan executed. Scouted History (Stock Footage) [Max Subs: 60,000, Min Multiplier: 14x, Region: Global English (Tier 1), Duration: 8+ mins (Midroll Optimized)]. Discovered MagnatesMedia, Neo.",
+        "discoveredNames": [
+          "MagnatesMedia",
+          "Neo"
+        ]
+      },
+      {
+        "id": "log-1790961348811",
+        "timestamp": 1790961348811,
+        "channelsFound": 2,
+        "status": "success",
+        "message": "Autonomous scan executed. Scouted Finance (Stock Footage). Discovered Finaius, Capital Pulse.",
+        "discoveredNames": [
+          "Finaius",
+          "Capital Pulse"
+        ]
+      },
+      {
+        "id": "log-1790959522086",
+        "timestamp": 1790959522086,
+        "channelsFound": 2,
+        "status": "success",
+        "message": "Autonomous scan executed. Scouted Health (AI 2D). Discovered Neo, Fern.",
+        "discoveredNames": [
+          "Neo",
+          "Fern"
+        ]
+      },
+      {
+        "id": "log-1790470627028",
+        "timestamp": 1790470627028,
+        "channelsFound": 2,
+        "status": "success",
+        "message": "Autonomous scan executed. Scouted Relationships (Stock Footage). Discovered Neo, Fern.",
+        "discoveredNames": [
+          "Neo",
+          "Fern"
+        ]
+      },
+      {
+        "id": "log-1790469975910",
+        "timestamp": 1790469975910,
+        "channelsFound": 2,
+        "status": "success",
+        "message": "Autonomous scan executed. Scouted Culture & Food (Stock Footage). Discovered Fern, Curious Archive.",
+        "discoveredNames": [
+          "Fern",
+          "Curious Archive"
+        ]
+      },
+      {
+        "id": "log-1790379436968",
+        "timestamp": 1790379436968,
+        "channelsFound": 2,
+        "status": "success",
+        "message": "Autonomous scan executed. Scouted History (Stock Footage). Discovered Neo, Fern.",
+        "discoveredNames": [
+          "Neo",
+          "Fern"
+        ]
+      },
+      {
+        "id": "log-seed-1",
+        "timestamp": 1790365032667,
+        "channelsFound": 2,
+        "status": "success",
+        "message": "Automated 12-hour background scan completed. Added Amazon Archives and Deep Made Simple.",
+        "discoveredNames": [
+          "Amazon Archives",
+          "Deep Made Simple"
+        ]
+      }
+    ]
+  }
+}
